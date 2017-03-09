@@ -3,7 +3,7 @@
 ## Description
 The Plugin Manager is responsible for the loading, running and unloading of Plugins.
 
-## Define a pulgin
+## Define a Plugin
 The templete:
 ````
 	PluginTemplet = function(game, parent) {};
